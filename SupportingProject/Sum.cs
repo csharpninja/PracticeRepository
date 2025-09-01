@@ -13,9 +13,9 @@ namespace SupportingProject
             return a + b;
         }
 
-        public long Add(long a, long b)
+        public int Add(int a, int  b,int c)
         {
-            return a + b;
+            return a + b +c;
         }
         
         
