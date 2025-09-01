@@ -1,0 +1,6 @@
+C:\Users\matam\source\repos\NugetpackageProject\SupportingProject\bin\Release\SupportingProject.dll
+C:\Users\matam\source\repos\NugetpackageProject\SupportingProject\bin\Release\SupportingProject.pdb
+C:\Users\matam\source\repos\NugetpackageProject\SupportingProject\obj\Release\SupportingProject.csproj.AssemblyReference.cache
+C:\Users\matam\source\repos\NugetpackageProject\SupportingProject\obj\Release\SupportingProject.csproj.CoreCompileInputs.cache
+C:\Users\matam\source\repos\NugetpackageProject\SupportingProject\obj\Release\SupportingProject.dll
+C:\Users\matam\source\repos\NugetpackageProject\SupportingProject\obj\Release\SupportingProject.pdb

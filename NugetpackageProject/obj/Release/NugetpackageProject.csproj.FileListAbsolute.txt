@@ -1,0 +1,11 @@
+C:\Users\matam\source\repos\NugetpackageProject\NugetpackageProject\bin\Release\NugetpackageProject.exe.config
+C:\Users\matam\source\repos\NugetpackageProject\NugetpackageProject\bin\Release\NugetpackageProject.exe
+C:\Users\matam\source\repos\NugetpackageProject\NugetpackageProject\bin\Release\NugetpackageProject.pdb
+C:\Users\matam\source\repos\NugetpackageProject\NugetpackageProject\bin\Release\SupportingProject.dll
+C:\Users\matam\source\repos\NugetpackageProject\NugetpackageProject\bin\Release\SupportingProject.pdb
+C:\Users\matam\source\repos\NugetpackageProject\NugetpackageProject\obj\Release\NugetpackageProject.csproj.AssemblyReference.cache
+C:\Users\matam\source\repos\NugetpackageProject\NugetpackageProject\obj\Release\NugetpackageProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\matam\source\repos\NugetpackageProject\NugetpackageProject\obj\Release\NugetpackageProject.csproj.CoreCompileInputs.cache
+C:\Users\matam\source\repos\NugetpackageProject\NugetpackageProject\obj\Release\NugetpackageProject.csproj.CopyComplete
+C:\Users\matam\source\repos\NugetpackageProject\NugetpackageProject\obj\Release\NugetpackageProject.exe
+C:\Users\matam\source\repos\NugetpackageProject\NugetpackageProject\obj\Release\NugetpackageProject.pdb

@@ -1,0 +1,11 @@
+C:\Users\matam\source\repos\NugetpackageProject\NugetpackageProject\bin\Debug\NugetpackageProject.exe.config
+C:\Users\matam\source\repos\NugetpackageProject\NugetpackageProject\bin\Debug\NugetpackageProject.exe
+C:\Users\matam\source\repos\NugetpackageProject\NugetpackageProject\bin\Debug\NugetpackageProject.pdb
+C:\Users\matam\source\repos\NugetpackageProject\NugetpackageProject\bin\Debug\SupportingProject.dll
+C:\Users\matam\source\repos\NugetpackageProject\NugetpackageProject\bin\Debug\SupportingProject.pdb
+C:\Users\matam\source\repos\NugetpackageProject\NugetpackageProject\obj\Debug\NugetpackageProject.csproj.AssemblyReference.cache
+C:\Users\matam\source\repos\NugetpackageProject\NugetpackageProject\obj\Debug\NugetpackageProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\matam\source\repos\NugetpackageProject\NugetpackageProject\obj\Debug\NugetpackageProject.csproj.CoreCompileInputs.cache
+C:\Users\matam\source\repos\NugetpackageProject\NugetpackageProject\obj\Debug\NugetpackageProject.csproj.CopyComplete
+C:\Users\matam\source\repos\NugetpackageProject\NugetpackageProject\obj\Debug\NugetpackageProject.exe
+C:\Users\matam\source\repos\NugetpackageProject\NugetpackageProject\obj\Debug\NugetpackageProject.pdb
